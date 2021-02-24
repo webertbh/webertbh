@@ -5,7 +5,7 @@ Sou do Brasil :brazil:, Tenho 36 anos.
 
 
 ![webertbh GitHub Stats](https://github-readme-stats.vercel.app/api?username=webertbh_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webertbh_count=8&show_icons=true&theme=tokyonight)](https://github.com/webertbh/github-readme-stats)
+[![Top Langs](https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=webertbh_count=8&show_icons=true&theme=tokyonight)](https://github.com/webertbh/github-readme-stats)
 
 <h5>Linguagens e Ferramentas :rocket::</h5>
 
