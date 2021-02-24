@@ -22,7 +22,7 @@ Sou do Brasil :brazil:, Tenho 36 anos.
 
  <h4>contact:</h4>
   <a target="_blank" href="https://www.linkedin.com/in/webert-lcunha/">
-    <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <img align="left" alt="LinkdeIN" width="22px" color="whrite" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a target="_blank" href="webertlimacunha@gmail.com">
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
    
