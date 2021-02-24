@@ -24,8 +24,7 @@ Sou do Brasil :brazil:, Tenho 36 anos.
  <h4>contact:</h4>
   <a target="_blank" href="https://www.linkedin.com/in/webert-lcunha/">
     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-  <a target="_blank" href="https://wa.me/+5531991955604?">
-    <img align="left" alt="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/whatsapp/whatsapp.png" width="22px" src="https://wa.me/+5531991955604?" /></a>
+  
 
    
 
