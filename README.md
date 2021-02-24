@@ -26,6 +26,7 @@ Sou do Brasil :brazil:, Tenho 36 anos.
     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a target="_blank" href="webertlimacunha@gmail.com">
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+    <a href="https://wa.me/+5531991955604?">Chamar no WhatsApp</a>
    
 
 
