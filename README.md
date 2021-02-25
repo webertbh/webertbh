@@ -21,6 +21,6 @@ Sou do Brasil :brazil:, Tenho 36 anos. Estou sempre a procura de conhecimento.
 
 
 
- <h4>contact:</h4>
+ <h4>Contato:</h4>
   <a target="_blank" href="https://www.linkedin.com/in/webert-lcunha/">
     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
