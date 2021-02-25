@@ -26,7 +26,7 @@ Sou do Brasil :brazil:, Tenho 36 anos.
     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   
   
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/whatsapp@1.0.0/index.min.js" /></a>
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/whatsapp@1.0.0.svg" /></a>
    
 
 
