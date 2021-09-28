@@ -1,7 +1,7 @@
 <h1>Olá, sou o Webert<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="40px" style="max-width:100%;"></h1>
 
-Sou estudante:green_book: Full stack Developer Angular, 
-Sou do Brasil :brazil:, Tenho 36 anos. Estou sempre a procura de conhecimento.
+Sou Desenvolvedor:green_book: Front-End Júnior, 
+Sou do Brasil :brazil:, Tenho 37 anos. Estou sempre a procura de conhecimento.
 
 
 ![webertbh GitHub Stats](https://github-readme-stats.vercel.app/api?username=webertbh&show_icons=true&theme=tokyonight)
