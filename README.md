@@ -1,6 +1,6 @@
 <h1>Olá, sou o Webert<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="40px" style="max-width:100%;"></h1>
 
-Sou Desenvolvedor:green_book: Front-End Júnior, 
+Sou Desenvolvedor: Front-End Júnior, 
 Sou do Brasil :brazil:, Tenho 37 anos. Estou sempre a procura de conhecimento.
 
 
